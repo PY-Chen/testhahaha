@@ -7,6 +7,7 @@ int main() {
 	int i = 0;
 
 	cout << "Enter a sequence of numbers to be summed: ";
+	cout << "hahahahaha";
 
 	while (cin >> i && i >= 0) {
 		sum += i;
